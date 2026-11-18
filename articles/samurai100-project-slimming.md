@@ -3,7 +3,7 @@ title: "侍100人斬りライトのプロジェクト軽量化 ― 44.8GBから�
 emoji: "🗡️"
 type: "tech"
 topics: ["侍100人斬りライト", "Unity", "最適化", "Git", "ゲーム開発"]
-published: false
+published: true
 ---
 iOSで一番人気の「侍100人斬りライト」。長年の開発でUnityプロジェクトが **44.82GB** まで膨らんでいたので、大規模な整理を行いました。
 
