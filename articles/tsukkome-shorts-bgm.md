@@ -1,11 +1,13 @@
 ---
 title: "ツッコめ！ Shorts のBGM選定 ― 公式ライブラリをプール化して日替わりに"
-emoji: "📝"
+emoji: "🎵"
 type: "tech"
-topics: ["ツッコめ！", "YouTube", "BGM"]
-published: false
+topics: ["ツッコめ！", "YouTube", "BGM", "個人開発"]
+published: true
 ---
 大喜利アプリ「ツッコめ！」のYouTube Shortsでは、毎日その日のお題で動画を作っています。そのBGMの選び方を少し前に見直しました。
+
+先に結論を書くと、権利まわりの事故をきっかけに、**YouTube公式オーディオライブラリの曲をプール化して、日替わりで1曲回す**方式に切り替えました。その経緯と運用ルールをまとめます。
 
 ## 変えた理由
 
